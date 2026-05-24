@@ -1,4 +1,4 @@
-### DigiTools
+# DigiTools
 
 # Overview
 
@@ -44,34 +44,22 @@ The project allows users to browse different digital products, add products to c
 - Remove product
 - Checkout success
  
-  # Product Data Structure
-
-Each product contains:
-
-id
-name
-description
-price
-period
-tag
-tagType
-features
-icon
-📱 Responsive Design
+  
+# Responsive Design
 
 The website is fully responsive for:
 
-Mobile Devices
-Tablets
-Laptops
-Desktop Screens
+- Mobile Devices
+- Tablets
+- Laptops
+- Desktop Screens
 
-📂 Dependencies
+# Dependencies
 
 This project uses modern frontend libraries and tools such as:
 
-React.js
-Tailwind CSS
-DaisyUI
-React Toastify
-React Icons
+- React.js
+- Tailwind CSS
+- DaisyUI
+- React Toastify
+- React Icons
