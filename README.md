@@ -67,3 +67,13 @@ Mobile Devices
 Tablets
 Laptops
 Desktop Screens
+
+📂 Dependencies
+
+This project uses modern frontend libraries and tools such as:
+
+React.js
+Tailwind CSS
+DaisyUI
+React Toastify
+React Icons
